@@ -7,15 +7,13 @@ This Feed Reader Testing is the fourth project of the Udacity Front-End Nanodegr
 - JavaScript Style Guide
 - Git Style Guide
 
-The HTML and CSS files were provided by Udacity and validated by the followings validators  without any errors or warnings.
-- [W3C HTML Validator](https://jigsaw.w3.org/css-validator/)
-- [W3C CSS Validator](https://validator.w3.org/)
+All the files were provided by Udacity including instructions for the required tests. 
 
 ## Overview
 
 This project is organized as follows:
  - index.html 
- - README.md 
+ - README.md
  - /css
    - style.css
    - normalize.css
@@ -31,14 +29,14 @@ This project is organized as follows:
    - app.js  
  - /jasmine
    - /spec
-     - feedreader.js -> changes were made only in this file
+     - feedreader.js -> contains the tests written by me
   
 ## How to run this application?
 
-TODO: Add section on how to run this application
+- Download all the files and open index.html on the browser.
+- The tests will appear on the bottom of the page.
 
 ## References
 
-- [W3 Schools Documentation](https://www.w3schools.com/)
 - [MDN Documentation](https://developer.mozilla.org/en-US/)
 - [Jasmine Documentation](https://jasmine.github.io/index.html)
