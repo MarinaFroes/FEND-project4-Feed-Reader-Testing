@@ -71,6 +71,13 @@ $(function() {
         * should have two expectations: does the menu display when
         * clicked and does it hide when clicked again.
         */
+        it('is displayed on click', function () {
+            const menuIcon = document.querySelector('.menu-icon-link');
+            menuIcon.click();
+            expect(menu).not.toHaveClass('menu-hidden');
+            menuIcon.click();
+            expect(menu).toHaveClass('menu-hidden');
+        });
 
     });
 
