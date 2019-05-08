@@ -3,13 +3,15 @@
 # Feed Reader Testing  
 ## Udacity Front-End Nanodegree Project 4 - Introduction
 
-This Feed Reader Testing is the fourth project of the Udacity Front-End Nanodegree and follows the "Feed Reader Testing project rubric" and the following style guides provided by Udacity:
-- JavaScript Style Guide
-- Git Style Guide
+This Feed Reader Testing is the fourth project of the Udacity Front-End Nanodegree.
 
-All the files were provided by Udacity including instructions for the required tests. 
+It is a web-based application that reads RSS feeds with an application but it had an incomplete test suite.
+
+All the files were provided by Udacity including instructions for writing the required tests. 
 
 ## Overview
+
+The goal of this project was to learn how to use Jasmine to write a number of tests against a pre-existing application, simulating a real work environment.
 
 This project is organized as follows:
  - index.html 
