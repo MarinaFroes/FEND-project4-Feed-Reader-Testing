@@ -66,7 +66,7 @@
         });
 
         it('have at least 01 entry', () => {
-            const allEntries = document.querySelectorAll('.entry');
+            const allEntries = document.querySelectorAll('.feed .entry');
             expect(allEntries.length).toBeGreaterThan(0);
         });
     });
