@@ -1,7 +1,7 @@
-
-![Favicon](/images/favicon.png) 
-# Feed Reader Testing  
-## Udacity Front-End Nanodegree Project 4 - Introduction
+<p align="center"><img src="./images/mylogo.svg" alt="logo" title="logo" width="80"></p>
+<h1 align="center">Feed Reader Testing - Udacity Front-End Nanodegree Project 4</h1>
+ 
+## Introduction
 
 This Feed Reader Testing is the fourth project of the Udacity Front-End Nanodegree.
 
